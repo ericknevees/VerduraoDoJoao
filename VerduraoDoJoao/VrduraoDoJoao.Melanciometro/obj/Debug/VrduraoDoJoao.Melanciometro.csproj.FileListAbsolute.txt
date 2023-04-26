@@ -1,0 +1,8 @@
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\bin\Debug\VrduraoDoJoao.Melanciometro.exe.config
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\bin\Debug\VrduraoDoJoao.Melanciometro.exe
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\bin\Debug\VrduraoDoJoao.Melanciometro.pdb
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\obj\Debug\VrduraoDoJoao.Melanciometro.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\obj\Debug\VrduraoDoJoao.Melanciometro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\obj\Debug\VrduraoDoJoao.Melanciometro.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\obj\Debug\VrduraoDoJoao.Melanciometro.exe
+C:\Users\ALUNO\source\repos\VerduraoDoJoao\VrduraoDoJoao.Melanciometro\obj\Debug\VrduraoDoJoao.Melanciometro.pdb
